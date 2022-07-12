@@ -1,4 +1,4 @@
-## Bank Telemarketing Campaign Case Study
+# Bank Telemarketing Campaign Case Study
 
 In this case study, Exploratory Data Analytics is performed on "Bank marketing campaign". This will enable you to understand why EDA is a most important step in the process of Machine Learning.
 
