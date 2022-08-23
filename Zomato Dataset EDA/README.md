@@ -1,5 +1,5 @@
 ## Context:
-We have taken a sample datset from Kaggfle and tried to do some data analysis. <br>
+We have taken a sample datset from Kaggle and tried to do some data analysis. <br>
 
 ## Data Storage:
 The collected data has been stored in the Comma Separated Value file Zomato.csv. Each restaurant in the dataset is uniquely identified by its Restaurant Id. <br> 
