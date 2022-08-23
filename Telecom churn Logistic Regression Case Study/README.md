@@ -1,4 +1,4 @@
-## Problem Statment:
+## Problem Statement:
 You have a telecom firm which has collected data of all its customers. The main types of attributes are: <br>
 
 * Demographics (age, gender etc.) <br>
