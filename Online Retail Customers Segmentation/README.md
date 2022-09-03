@@ -1,4 +1,4 @@
-## Online-Retail-Customers-Segmentation
+## K-Means Clustering using Online Retail dataset
 K-Means Clustering, Elbow Method, Silhouette Analysis, Hierarchical Clustering <br>
 
 Data Source: https://archive.ics.uci.edu/ml/datasets/online+retail <br>
