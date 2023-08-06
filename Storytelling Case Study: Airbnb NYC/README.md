@@ -1,4 +1,4 @@
-# Storytelling-Case-Study-Airbnb-NYC
+# Storytelling Case Study: Airbnb-NYC
 
 Suppose that you are working as a data analyst at Airbnb. 
 For the past few months, Airbnb has seen a major decline in revenue. 
