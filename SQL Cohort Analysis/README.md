@@ -44,6 +44,4 @@ The project:
 ## SQL
 See [`sql/cohort_retention.sql`](sql/cohort_retention.sql).
 
-## Article
-
 📌 **Read the full walkthrough on Medium:** [SQL Cohort Analysis: Are Your Customers Actually Coming Back?](https://medium.com/@sri1712lathaa/sql-cohort-analysis-are-your-customers-actually-coming-back-994615b04f76)
