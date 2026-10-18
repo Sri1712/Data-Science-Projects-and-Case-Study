@@ -9,7 +9,7 @@ This project covers the fundamentals of developing and managing a dbt project.
 - **Data Transformation:** SQL, dbt Core
 - **Project Management:** dbt project structure, models, and configurations
 - **Data Quality:** Testing and validating transformed data
-- **Development Workflows:** Version control with Git and GitHub
+- **Development Workflows:** Version control with Git & GitHub
 - **Deployment:** Introduction to production dbt workflows
 
 ## Tech Stack
