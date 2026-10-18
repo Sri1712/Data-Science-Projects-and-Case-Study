@@ -1,6 +1,6 @@
 # Data Engineering with dbt
 
-A hands-on project exploring **dbt Core** to build, test, and manage reliable data transformation workflows.
+A hands-on project exploring **dbt Core** to build, test and manage reliable data transformation workflows.
 
 ## Overview
 This project covers the fundamentals of developing and managing a dbt project.
